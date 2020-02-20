@@ -9,6 +9,7 @@
   + HTML & CSS
   + Ruby & Rails
   + Linux & Bash
+  + Python & Docker
   + Jekyllrb & ITCSS
   + Writing & documenting
   + Researching & notetaking
