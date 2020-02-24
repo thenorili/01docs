@@ -55,4 +55,17 @@
     - <thenori> Of course, whether it would be motivated to use any given tool is another concern completely, one of what goals an AGI might possess.
     - <thenori> One might fairly presume that an AGI will differ from humans in the sense that it will probably (hopefully!) have a well-defined purpose to its existence.
     - <thenori> What purpose would you give to an AGI?
-    - 
+    - <aloo_shu> the definition of machine learning is *much* more concise than that of narrow AI - as you admit yourself, selecting tasks that computers are suited to is happenning, that's a bias introduced even before the comparison, also wobbly, of performance at tasks has begun
+    - <aloo_shu> even performing tasks is a significant pre-selection of what is seen as an indicator of intelligence - which arguably, could also manifest as -not- doing anything/something, wu wei, a non-doing, for instance
+    - <aloo_shu> personally, I like to trace 'intelligence' back to 'tela', fabric, 'telar', to weave, but I don't know if any academic etymologist would take me serious on that one
+    - <thenori> @aloo_shu, I wouldn't describe the fact that computers are best at things computers are best at as a 'bias'
+    - <thenori> Additionally, I don't think that any Taoists would be at all troubled by the notion that wu wei is not considered a form of measurable intelligence.
+    - <aloo_shu> ah, ok, now we're at 'is intelligence measurable'. Afaik, the inventor of the intelligence test humorously acknowledged the dilemma by saying 'intelligence is what the intelligence test measures'
+<thenori> I do agree *fully* that fundamentally the process of aggregating the measurement of the performance of a category of tasks is so intrinsically idiosyncratic as to be *completely* epistemologically distinct from the human concept of Intelligence.
+    - <aloo_shu> then, take a less lofty example: you can perform at fighting, but not getting into a fight *is* generally being considered a form of intelligence
+    - <thenori> ^ That's the distinction between narrow intelligence and general intelligence.
+    - <thenori> As beings with general intelligence, we construct long-term goals and values that guide the choices we make over the course of our lives.
+    - <thenori> Narrow or 'domain-specific' intelligence is far more measurable and observable than general intelligence.
+    - <thenori> What scientists might call 'big G' General intelligence is far broader and more mysterious than the 'small g' general intelligences we may define such as analytical reasoning.
+    - <thenori> Even analytical reasoning however is largely beyond our scientific understanding. While experimental psychologists may design tests intended to test analytical reasoning, the construction of these tests subjects them to innumerable vectors of bias and the interpretation of these tests influences society to such an extent that one could rationally argue we may well be better off forgetting they ever existed.
+    - <thenori> The initial creator of the IQ test that you mentioned created them to better identify children in need of more support to reach their full potential!
