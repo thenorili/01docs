@@ -1,0 +1,58 @@
+- AI
+    - <thenori> it's not leap day, it's the 23rd
+    - <thenori> @Primer when we started this conversation, you mentioned the metaphysical / semantic / philosophical question of "What is intelligence?"
+    - <thenori> I put that to the side because fundamentally that question isn't important when discussing narrow AI and machine learning.
+    - <thenori> Why is that? Because "What is intelligence?" is a question whose many facets pretty much all concern humans.
+    - <thenori> "What is intelligent life?" => "What category of life is it ethical to torture/murder?"
+    - <thenori> "Who is intelligent?" => "Whose mental capacities are important to reward?"
+    - <thenori> "What forms of intelligence exist?" => "What categories of mental capacity can we define?"
+    - <thenori> Humans love rewards and categories. We just do.
+    - <thenori> The concept of a measurable intelligence quotient has been abused in every way imaginable. Its ethical value and overall utility are both questionable, but for a thought experiment let's take it apart a bit.
+    - <thenori> "While there is no universally accepted definition of human intelligence, we can define it as the ability to acquire, retain, and apply knowledge in many different spheres of life."
+    - <thenori> "The WISC and WAIS are normalized to reflect the average performance and a normal range of variability. Normalized IQ scores indicate a participant’s performance relative to that of other people of the same age."
+    - <thenori> " IQ tests measure the ability to solve problems using abstract reasoning. People who do well on one part of an IQ test tend to do well on the other parts of the test."
+    - <thenori> " Debate continues concerning whether IQ tests truly measure generalized intelligence (g factor), and whether there is such a thing as generalized intelligence."
+    - <thenori> " Psychologists distinguish between fluid intelligence (gF), the ability to reason logically to solve new problems, and crystallized intelligence (gC), specific knowledge that a person has acquired and the ability to apply that knowledge."
+    - <thenori> " Some researchers have suggested that fluid intelligence may represent some sort of “processing speed” that can be assessed by measuring reaction time, the amount of time it takes someone to detect a signal and make an appropriate response."
+    - <thenori> (source: https://global.oup.com/us/companion.websites/9780199329366/ch11/summary/ )
+    - <thenori> So to measure IQ, one presents a human with a series of problems and measures how quickly and accurately they solve them using abstract reasoning -- then, one programmatically assigns a numerical value to those results and compares the value to other humans of the same age.
+    - <thenori> While much valid debate is had about the narrowness of the skills measured by an IQ test, for the sake of debate let's assume very generously that the skills measured amount to a form of General Intelligence.
+    - <thenori> Leaving that pot to simmer for a bit, let's discuss Narrow Intelligence. If General Intelligence can be defined as a broad category of interrelated skills which can be measured by measuring the effectiveness with which one completes a set of tasks, then Narrow Intelligence is a narrow category of interrelated skills that can be measured by the effectiveness which which one completes a single task.
+    - <thenori> "Savant syndrome" is defined as a trait where one extraordinary abilities in a limited field accompanied by disability in other areas of life.
+    - <thenori> IQ is regularly adjusted to keep the average score at 100. This is important to keep in mind! We measure intelligence by measuring the effectiveness we perform certain tasks *relative to other humans*, specifically other humans our age.
+    - <thenori> When considering Artificial Intelligence, we necessarily measure its Intelligence in the same way: by comparing how effectively it performs tasks relative to humans.
+    - <thenori> In light of this, it makes a lot of sense to say that Narrow AI doesn't require any specific programming domain. A Narrow AI is just a computer program that does a task more or less as well as a human could.
+    - <physiology> Is AI > human performance implicit?
+    - <thenori> Not implicit, no.
+    - <thenori> Look at Quake 3 bots!
+    - <thenori> Or yakno, look at early chess AI.
+    - <thenori> If it's at least performing within a few orders of magnitude as well as a human could -- some would say if it's performing at all -- it can be defined as a Narrow AI.
+    - <thenori> Since we generally measure human intelligence relative to humans of the same age, it's reasonable to say that a bad AI is just one that's best compared to a child.
+    - <thenori> Machine Learning is something different. As I said before, Machine Learning is an algorithm that parses data in such a way that it can then produce determinations or predictions about ~something~.
+    - <thenori> To be very clear -- Narrow AI is a computer program or computer system that's used to perform a task more or less as well as a human and Machine Learning is an algorithmic process of producing a predictive or determinative capacity from a dataset.
+    - <thenori> As anyone who's completed several hundred CAPTCHAs is aware, creating a Narrow AI which can identify traffic lights as well as a small child takes *quite a fucking lot* of Machine Learning.
+    - <thenori> At the same time, a Narrow AI designed to complete some tasks which computers are more naturally suited to can be produced without much sweat.
+    - <thenori> For instance, binary arithmetic! They're so damn good at binary arithmetic.
+    - <thenori> Now, wtf is Artificial General Intelligence?
+    - <thenori> Our knowledge of Artificial General Intelligence is *somewhat* clearer than our knowledge of Warp Drive technology.
+    - <thenori> For instance, we don't know what tools we'd use to implement Warp Drive but we're pretty sure that we'd use Computer Processing Units to implement an Artificial General Intelligence.
+    - <thenori> https://www.youtube.com/watch?v=gP4ZNUHdwp8
+    - <nomind> [YouTube] What can AGI do? I/O and Speed
+    - <thenori> So, what can we speculate about Artificial General Intelligence? 
+    - <thenori> I'll be cribbing generously from the video in the interest of those who don't feel like watching a video or reading a transcript.
+    - <thenori> Suppose we make an algorithm that implements General Intelligence about as well as the human brain? It can tackle a wide variety of cognitive tasks and learn to do any cognitive task that a human can. Our assumptions are 1) That it's a *simulation*, not an *emulation*, of the human brain and 2) That it's more or less human-level in its intelligence.
+    - <thenori> Because it's a computer system, we can assume that in addition to being more or less as intelligent as a human being at a wide variety of tasks, we can also assume that it's able to implement any Narrow AI that's already been developed and directly interface with it. So, it's more or less human level in its intelligence *except* for tasks where computers already beat humans such as chess, arithmetic, data parsing and conversion, 
+    - <thenori> printing photographs, or transmitting radio signals.
+    - <thenori> Additionally, we can assume that this AGI is capable of processing in parallel, arbitrarily reallocating processing power and storage space, and interacting with data *directly* in many forms.
+    - <thenori> e.g. imagine if you gave the average programmer the capacity to directly interface their brain with computer systems without visual or auditory stimuli and without the need to manipulate their muscles to manipulate data.
+    - <thenori> Immediately, regardless of intelligence they become incredibly effective at the task of programming.
+    - <thenori> Additionally, this hypothetical AGI would be able to process and manipulate data at a much faster rate than any human. Human impulse reaction times are on the order of 1/15th of a second. That's referred to as the speed of neural transmission. Additionally, the human brain can only fire one synapse around 200 times in one second -- though it operates in parallel and can trigger in any one of 26 different magnitudes!
+    - <thenori> While we can react as quick as the speed of neural transmission to some things, our speed at many other tasks is far slower. Robert Miles ( who once again I'm summarizing ) posits a thought experiment: You're having a conversation, but the whole world is 10x slower.
+    - <thenori> Even though your brain hasn't been altered, your ability to think an order of magnitude more about a task than the people around you makes grants you effective superintelligence in any meaningful, measurable way.
+    - <thenori> This metaphor maps remarkably well onto that of an AGI. Even if it's only as smart as the average human, its ability to think *more* about a certain thing in the same span of time that a human is thinking about a certain thing grants it general superintelligence.
+    - <thenori> If you think about it, in a very real way we are already contributing to any hypothetical AGI which may one day exist.
+    - <thenori> When we create Narrow AI, we're not only creating processes which can be run by other human beings to create superintelligent human-machine systems but we're also creating processes which could potentially be run at will by any AGI which one day exists :)
+    - <thenori> Of course, whether it would be motivated to use any given tool is another concern completely, one of what goals an AGI might possess.
+    - <thenori> One might fairly presume that an AGI will differ from humans in the sense that it will probably (hopefully!) have a well-defined purpose to its existence.
+    - <thenori> What purpose would you give to an AGI?
+    - 
