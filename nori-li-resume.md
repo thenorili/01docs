@@ -9,11 +9,12 @@
   + HTML & CSS
   + Ruby & Rails
   + Linux & Bash
-  + Python & Docker
+  + Python & Rust
   + Jekyllrb & ITCSS
   + Writing & documenting
   + Researching & notetaking
   + Educating & mathematizing
+  + Sysadmin & virtualization
   + Win & Unix troubleshooting
   + Audio production & engineering
   + UX, UI, & visual design
