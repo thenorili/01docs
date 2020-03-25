@@ -24,6 +24,8 @@
 ##    | Projects        |
 -------------------------
  
+  + Study 'The Rust Programming Language'
+  + Develop and maintain Primodality Generator (Rust)
   + Build norili.com with jekyllrb, HTML, & CSS.
   + Chunk vim, bash, ruby, and python knowledge into my roam database.
   
