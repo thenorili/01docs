@@ -6,28 +6,23 @@
 ##    | Competencies    |
 -------------------------
 
-  + HTML & CSS
-  + Ruby & Rails
+  + Rust & C++
   + Linux & Bash
-  + Python & Rust
-  + Jekyllrb & ITCSS
-  + Writing & documenting
-  + Researching & notetaking
-  + Educating & mathematizing
-  + Sysadmin & virtualization
-  + Win & Unix troubleshooting
+  + Ruby & Python
+  + System administration
+  + Education & mathematics
+  + Documentation & research
+  + Win & Linux troubleshooting
   + Audio production & engineering
-  + UX, UI, & visual design
-  + Project management
-
+  
 -------------------------
 ##    | Projects        |
 -------------------------
  
-  + Study 'The Rust Programming Language'
+  + Study 'Effective Modern C++'
+  + Build norili.com with jekyllrb, HTML, & CSS
   + Develop and maintain Primodality Generator (Rust)
-  + Build norili.com with jekyllrb, HTML, & CSS.
-  + Chunk vim, bash, ruby, and python knowledge into my roam database.
+  + Chunk Linux and C++ knowledge into my learning database
   
 -------------------------
 ##    | Values          |
@@ -47,10 +42,10 @@
 ##    | Hobbies         |
 -------------------------
  
-  + Computers:            research, self-study, playing with vim, bash, and unix.
-  + Music:                having written & recorded 17 albums.
-  + Psychology:           DBT, psychoanalysis, social model of disability, autism.
-  + Trans voice:          currently teaching two students.
+  + Computers:            research, self-study, playing with vim, bash, and linux
+  + Music:                having written & recorded 17 albums
+  + Psychology:           DBT, psychoanalysis, social model of disability, autism
+  + Trans voice:          currently teaching two students
   
 -------------------------
 ##    | Courseload      |
